@@ -730,6 +730,7 @@ figcaption {
 
 .button-wrap.white.centered {
   text-align: center;
+  border-style: none;
 }
 
 .link-3 {
@@ -2940,6 +2941,10 @@ figcaption {
 
 .map-wrap-outer {
   margin-top: 40px;
+}
+
+.spacer._40 {
+  height: 40px;
 }
 
 @media screen and (min-width: 1440px) {
